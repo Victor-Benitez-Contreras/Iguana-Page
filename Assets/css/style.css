@@ -1,0 +1,160 @@
+*
+
+body{
+    font-family: "raleway";
+    align-content: center;
+    margin: 0px;
+}
+
+header{ 
+    width: 100%;
+    height: 727px;
+    text-align: center;
+    background-color: black;
+}
+.img-header {
+    width: 100%;
+    
+}
+
+nav{
+    height: 73px;
+    width: auto;
+    background-color: #000000;
+    top: 0px;
+}
+
+nav h1{
+    color: #ffffff;
+    text-align: center;
+    vertical-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.descripcion{
+    padding-top: 30px;
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+    background-color: #000000;
+    height: 348px;
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 300;
+    width: 475px;
+    text-align: left;
+    color: #ffffff;
+    padding-right: 20px;
+}
+
+a {
+    width: 399px;
+    height: 237px;
+}
+
+.imagen-descripcion {
+    display: inline-block;
+    width: 399px;
+    height: 237px;
+  
+}
+
+.caracteristicas {
+    width: 100%;
+    background-color: #1E1A13;
+    height: 343px;
+    display: inline-block;
+}
+
+.caracteristica {
+    color: #ffffff;
+}
+.fa fa-eye {
+  fill: #ffffff;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    padding: 0px 30px;
+    
+}
+
+.container-c {
+    width: 240px;
+    padding: 20px 20px;
+}
+.imagenes {
+    background-color: #000000;
+    text-align: center;
+    height: 348px;
+}
+
+ul {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+.imagen-01-03 {
+    width: 316px;
+    height: 212px;
+    margin-top: 73px;
+}
+
+.imagen-02 {
+    width: 316px;
+    height: 212px;
+    margin: 0px 16px;
+    margin-top: 73px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 7px;
+}
+
+.texto-footer {
+    font-size: 20px;
+    font-weight: 300; 
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+footer {
+    width: 100%;
+    background: #1E1A13;
+    text-align: center;
+    height: 102px;
+    
+}
+
+.lista-caracteristicas {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    vertical-align: middle;
+}
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 500;
+    
+}
+
+i {
+   font-size: 60px;
+   color: white;
+}
